@@ -1,0 +1,217 @@
+year,sector,type_of_expenditure,type_of_cost,rnd_expenditure
+2018,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",50.28
+2018,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",380.4
+2018,Private Sector,Manpower Expenditure,Researchers,2323.11
+2018,Private Sector,Manpower Expenditure,Technicians,82.16
+2018,Private Sector,Manpower Expenditure,Other Supporting Staff,172.53
+2018,Private Sector,Other Operating Expenditure,Other Operating Costs,2629.91
+2018,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",20.92
+2018,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",38.62
+2018,Government Sector,Manpower Expenditure,Researchers,425.2
+2018,Government Sector,Manpower Expenditure,Technicians,21.73
+2018,Government Sector,Manpower Expenditure,Other Supporting Staff,90.41
+2018,Government Sector,Other Operating Expenditure,Other Operating Costs,472.29
+2018,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",7.4
+2018,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",146.17
+2018,Institutes of Higher Learning,Manpower Expenditure,Researchers,938.69
+2018,Institutes of Higher Learning,Manpower Expenditure,Technicians,13.47
+2018,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,73.56
+2018,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,472
+2018,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",9.48
+2018,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",72.35
+2018,Public Research Institutes,Manpower Expenditure,Researchers,420.02
+2018,Public Research Institutes,Manpower Expenditure,Technicians,19.74
+2018,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,26.19
+2018,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,375.14
+2017,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",73.34
+2017,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",502.54
+2017,Private Sector,Manpower Expenditure,Researchers,2223.96
+2017,Private Sector,Manpower Expenditure,Technicians,86.21
+2017,Private Sector,Manpower Expenditure,Other Supporting Staff,144.27
+2017,Private Sector,Other Operating Expenditure,Other Operating Costs,2355.81
+2017,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",35.75
+2017,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",34.04
+2017,Government Sector,Manpower Expenditure,Researchers,393.81
+2017,Government Sector,Manpower Expenditure,Technicians,26.05
+2017,Government Sector,Manpower Expenditure,Other Supporting Staff,76.15
+2017,Government Sector,Other Operating Expenditure,Other Operating Costs,443.82
+2017,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",17.39
+2017,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",166.09
+2017,Institutes of Higher Learning,Manpower Expenditure,Researchers,932.49
+2017,Institutes of Higher Learning,Manpower Expenditure,Technicians,14.04
+2017,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,74.05
+2017,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,499.47
+2017,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",3.5
+2017,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",61.56
+2017,Public Research Institutes,Manpower Expenditure,Researchers,430.91
+2017,Public Research Institutes,Manpower Expenditure,Technicians,30.81
+2017,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,29.89
+2017,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,405.63
+2016,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",98.9
+2016,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",620.66
+2016,Private Sector,Manpower Expenditure,Researchers,2115.32
+2016,Private Sector,Manpower Expenditure,Technicians,105.27
+2016,Private Sector,Manpower Expenditure,Other Supporting Staff,143.57
+2016,Private Sector,Other Operating Expenditure,Other Operating Costs,2257.23
+2016,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",67.95
+2016,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",43.98
+2016,Government Sector,Manpower Expenditure,Researchers,329.24
+2016,Government Sector,Manpower Expenditure,Technicians,31.66
+2016,Government Sector,Manpower Expenditure,Other Supporting Staff,102.43
+2016,Government Sector,Other Operating Expenditure,Other Operating Costs,450.27
+2016,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",13.87
+2016,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",174.89
+2016,Institutes of Higher Learning,Manpower Expenditure,Researchers,888.7
+2016,Institutes of Higher Learning,Manpower Expenditure,Technicians,13.77
+2016,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,68.21
+2016,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,488.54
+2016,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",28.12
+2016,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",155.92
+2016,Public Research Institutes,Manpower Expenditure,Researchers,414.04
+2016,Public Research Institutes,Manpower Expenditure,Technicians,46.1
+2016,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,29.22
+2016,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,452.39
+2015,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",107.15
+2015,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",716.62
+2015,Private Sector,Manpower Expenditure,Researchers,2035.36
+2015,Private Sector,Manpower Expenditure,Technicians,99.32
+2015,Private Sector,Manpower Expenditure,Other Supporting Staff,158.21
+2015,Private Sector,Other Operating Expenditure,Other Operating Costs,2395.28
+2015,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",27.72
+2015,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",47.09
+2015,Government Sector,Manpower Expenditure,Researchers,363.51
+2015,Government Sector,Manpower Expenditure,Technicians,33.53
+2015,Government Sector,Manpower Expenditure,Other Supporting Staff,64.71
+2015,Government Sector,Other Operating Expenditure,Other Operating Costs,491.33
+2015,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",4.19
+2015,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",178.47
+2015,Institutes of Higher Learning,Manpower Expenditure,Researchers,844.96
+2015,Institutes of Higher Learning,Manpower Expenditure,Technicians,13.54
+2015,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,64.74
+2015,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,466.87
+2015,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",6.44
+2015,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",187.29
+2015,Public Research Institutes,Manpower Expenditure,Researchers,442.49
+2015,Public Research Institutes,Manpower Expenditure,Technicians,38.9
+2015,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,32.86
+2015,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,418.88
+2014,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",231.81
+2014,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",670.88
+2014,Private Sector,Manpower Expenditure,Researchers,1914.06
+2014,Private Sector,Manpower Expenditure,Technicians,75.7
+2014,Private Sector,Manpower Expenditure,Other Supporting Staff,134.54
+2014,Private Sector,Other Operating Expenditure,Other Operating Costs,1979.89
+2014,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",27.17
+2014,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",30.05
+2014,Government Sector,Manpower Expenditure,Researchers,304.45
+2014,Government Sector,Manpower Expenditure,Technicians,33.21
+2014,Government Sector,Manpower Expenditure,Other Supporting Staff,57.3
+2014,Government Sector,Other Operating Expenditure,Other Operating Costs,519.91
+2014,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",1.72
+2014,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",169.59
+2014,Institutes of Higher Learning,Manpower Expenditure,Researchers,722.18
+2014,Institutes of Higher Learning,Manpower Expenditure,Technicians,16.92
+2014,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,59.69
+2014,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,378.15
+2014,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",14.12
+2014,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",111.46
+2014,Public Research Institutes,Manpower Expenditure,Researchers,419.05
+2014,Public Research Institutes,Manpower Expenditure,Technicians,26.52
+2014,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,40.35
+2014,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,377.89
+2013,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",196.81
+2013,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",465.98
+2013,Private Sector,Manpower Expenditure,Researchers,1709.88
+2013,Private Sector,Manpower Expenditure,Technicians,70
+2013,Private Sector,Manpower Expenditure,Other Supporting Staff,104.78
+2013,Private Sector,Other Operating Expenditure,Other Operating Costs,1785.75
+2013,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",48.85
+2013,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",19.29
+2013,Government Sector,Manpower Expenditure,Researchers,261.08
+2013,Government Sector,Manpower Expenditure,Technicians,45.06
+2013,Government Sector,Manpower Expenditure,Other Supporting Staff,63.42
+2013,Government Sector,Other Operating Expenditure,Other Operating Costs,420.15
+2013,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",12.92
+2013,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",162.71
+2013,Institutes of Higher Learning,Manpower Expenditure,Researchers,689.49
+2013,Institutes of Higher Learning,Manpower Expenditure,Technicians,18.96
+2013,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,55.72
+2013,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,370.7
+2013,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",2.8
+2013,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",95.4
+2013,Public Research Institutes,Manpower Expenditure,Researchers,396.61
+2013,Public Research Institutes,Manpower Expenditure,Technicians,31.22
+2013,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,29.03
+2013,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,345.81
+2012,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",156.59
+2012,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",651.33
+2012,Private Sector,Manpower Expenditure,Researchers,1640.4
+2012,Private Sector,Manpower Expenditure,Technicians,71.64
+2012,Private Sector,Manpower Expenditure,Other Supporting Staff,147.17
+2012,Private Sector,Other Operating Expenditure,Other Operating Costs,1582.15
+2012,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",24.32
+2012,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",18.9
+2012,Government Sector,Manpower Expenditure,Researchers,232.11
+2012,Government Sector,Manpower Expenditure,Technicians,38.25
+2012,Government Sector,Manpower Expenditure,Other Supporting Staff,61.67
+2012,Government Sector,Other Operating Expenditure,Other Operating Costs,349.71
+2012,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",18.22
+2012,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",126.9
+2012,Institutes of Higher Learning,Manpower Expenditure,Researchers,624.95
+2012,Institutes of Higher Learning,Manpower Expenditure,Technicians,16.43
+2012,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,49.52
+2012,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,356.02
+2012,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",10.07
+2012,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",134.91
+2012,Public Research Institutes,Manpower Expenditure,Researchers,371.53
+2012,Public Research Institutes,Manpower Expenditure,Technicians,34.13
+2012,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,19.32
+2012,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,341.91
+2011,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",91.97
+2011,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",375.69
+2011,Private Sector,Manpower Expenditure,Researchers,1774.17
+2011,Private Sector,Manpower Expenditure,Technicians,103.26
+2011,Private Sector,Manpower Expenditure,Other Supporting Staff,210.25
+2011,Private Sector,Other Operating Expenditure,Other Operating Costs,1901.09
+2011,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",30.11
+2011,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",34.19
+2011,Government Sector,Manpower Expenditure,Researchers,227.55
+2011,Government Sector,Manpower Expenditure,Technicians,34.64
+2011,Government Sector,Manpower Expenditure,Other Supporting Staff,59.4
+2011,Government Sector,Other Operating Expenditure,Other Operating Costs,372.4
+2011,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",7.04
+2011,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",121.21
+2011,Institutes of Higher Learning,Manpower Expenditure,Researchers,570.45
+2011,Institutes of Higher Learning,Manpower Expenditure,Technicians,15.27
+2011,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,42.55
+2011,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,328.76
+2011,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",15.36
+2011,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",220.03
+2011,Public Research Institutes,Manpower Expenditure,Researchers,315.44
+2011,Public Research Institutes,Manpower Expenditure,Technicians,44.98
+2011,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,36.77
+2011,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,343.02
+2010,Private Sector,Capital Expenditure,"Land, Buildings & Other Structures",68.02
+2010,Private Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",550.58
+2010,Private Sector,Manpower Expenditure,Researchers,1451.95
+2010,Private Sector,Manpower Expenditure,Technicians,70.83
+2010,Private Sector,Manpower Expenditure,Other Supporting Staff,117.76
+2010,Private Sector,Other Operating Expenditure,Other Operating Costs,1514.66
+2010,Government Sector,Capital Expenditure,"Land, Buildings & Other Structures",25.61
+2010,Government Sector,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",32.75
+2010,Government Sector,Manpower Expenditure,Researchers,197.06
+2010,Government Sector,Manpower Expenditure,Technicians,32.34
+2010,Government Sector,Manpower Expenditure,Other Supporting Staff,50.17
+2010,Government Sector,Other Operating Expenditure,Other Operating Costs,334.37
+2010,Institutes of Higher Learning,Capital Expenditure,"Land, Buildings & Other Structures",5.24
+2010,Institutes of Higher Learning,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",121.27
+2010,Institutes of Higher Learning,Manpower Expenditure,Researchers,512.99
+2010,Institutes of Higher Learning,Manpower Expenditure,Technicians,14.86
+2010,Institutes of Higher Learning,Manpower Expenditure,Other Supporting Staff,34.64
+2010,Institutes of Higher Learning,Other Operating Expenditure,Other Operating Costs,279.11
+2010,Public Research Institutes,Capital Expenditure,"Land, Buildings & Other Structures",20.81
+2010,Public Research Institutes,Capital Expenditure,"Vehicles, Plant, Machinery & Equipment",143.37
+2010,Public Research Institutes,Manpower Expenditure,Researchers,301.21
+2010,Public Research Institutes,Manpower Expenditure,Technicians,52.13
+2010,Public Research Institutes,Manpower Expenditure,Other Supporting Staff,24.01
+2010,Public Research Institutes,Other Operating Expenditure,Other Operating Costs,359.46
